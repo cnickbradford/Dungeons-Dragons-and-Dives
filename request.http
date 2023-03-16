@@ -1,0 +1,5 @@
+### dnd spells request 
+GET https://www.dnd5eapi.co/docs/#get-/api
+
+###specific spell
+GET https://www.dnd5eapi.co/api/classes/paladin/spells
